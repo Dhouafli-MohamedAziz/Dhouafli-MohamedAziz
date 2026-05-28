@@ -1,5 +1,5 @@
 
-
+![Banner](banner.png)
 <div align="center">
 
 # Mohamed Aziz Dhouafli
@@ -14,7 +14,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Batri99)
 [![CSES](https://img.shields.io/badge/CSES-darkgreen?style=for-the-badge)](https://cses.fi/user/354864)
 
-🔍 **Actively looking for a backend engineering internship**
+🔍 **Actively looking for a backend engineering internship  — open to remote & Europe**
 
 </div>
 
@@ -65,7 +65,7 @@ Final-year Computer Science Engineering student at ENSIT (Tunis), focused on bac
 
 <div align="center">
 
-*Open to backend engineering internship opportunities*  
+*Open to backend engineering internship opportunities  — open to remote & Europe*  
 **Let's connect → [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-dhouafli-b40261270/) · [Portfolio](https://mohamedazizdhouafli.vercel.app/)**
 
 </div>
