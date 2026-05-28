@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 
 <div align="center">
 
@@ -11,10 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-dhouafli-b40261270/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedazizdhouafli.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaziz.dhouafli@ensit.u-tunis.tn)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![CSES](https://img.shields.io/badge/CSES-darkgreen?style=for-the-badge)](https://cses.fi/user/YOUR_CSES_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Batri99)
+[![CSES](https://img.shields.io/badge/CSES-darkgreen?style=for-the-badge)](https://cses.fi/user/354864)
 
-🔍 **Actively looking for a backend engineering internship (PFE) — open to remote & Europe**
+🔍 **Actively looking for a backend engineering internship**
 
 </div>
 
@@ -24,8 +24,8 @@
 
 Final-year Computer Science Engineering student at ENSIT (Tunis), focused on backend systems and AI integration. I build things end-to-end — from system design and API architecture to containerization and shipping real products.
 
-- 🤖 Built an AI-powered voice interview platform integrating Deepseek, Whisper, Vosk, and Microsoft Edge TTS
-- 🏗️ Strong foundation in system architecture — designed full UML diagrams, modeled distributed systems patterns
+-  Built an AI-powered voice interview platform integrating Deepseek, Whisper, Vosk, and Microsoft Edge TTS
+-  Strong foundation in system architecture — designed full UML diagrams, modeled distributed systems patterns
 - 🏆 Competitive programmer — active on Codeforces & CSES
 
 ---
@@ -44,7 +44,6 @@ Final-year Computer Science Engineering student at ENSIT (Tunis), focused on bac
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -61,31 +60,12 @@ Final-year Computer Science Engineering student at ENSIT (Tunis), focused on bac
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
----
-
-## Currently Learning
-
-- 🦫 **Go (Golang)** — cloud-native backend and microservices
-- 📐 **System Design** — distributed systems, scalability, consistency models
-- 📖 *Designing Data-Intensive Applications* — Kleppmann
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhouafli-MohamedAziz&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhouafli-MohamedAziz&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
 <div align="center">
 
-*Open to backend engineering internship opportunities in Europe or remote*  
+*Open to backend engineering internship opportunities*  
 **Let's connect → [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-dhouafli-b40261270/) · [Portfolio](https://mohamedazizdhouafli.vercel.app/)**
 
 </div>
